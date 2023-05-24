@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  /* background-image: url("http://www.triwayeducation.com/wp-content/uploads/sites/10/2017/01/Typing-home-position-460x285.jpg");
+  background-size: cover; */
+  height: 100vh;
+  /* color: blue; */
+}
+.GivenData {
+  color: blue;
+}
+.activeGreen {
+  color: green;
+}
+.activeRed {
+  color: red;
+}
+.active {
+  font-weight: bold;
+  color: black;
+}
+.inputClass {
+  width: 70%;
+  height: 5vh;
+  border-radius: 8px;
+  border-color: rgb(80, 231, 231);
+  margin: 35px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
